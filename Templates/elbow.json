@@ -1,0 +1,89 @@
+{
+    "Fracture (All Locations)": {
+        "finding": false
+    },
+    "Lytic Lesion": {
+    "finding": false
+    },
+    "Sclerotic Lesion": {
+        "finding": false
+    },
+    "Distal Humerus - Fracture": {
+        "finding": false
+    },
+    "Distal Humerus - Comminuted or Fragmented Fracture": {
+        "finding": false
+    },
+    "Distal Humerus - Displacement": {
+        "finding": false
+    },
+    "Distal Humerus Fracture - Extension into Joint": {
+        "finding": false
+    },
+    "Olecranon Fracture": {
+        "finding": false
+    },
+    "Olecranon - Displaced Fracture": {
+        "finding": false
+    },
+    "Olecranon - Comminuted or Fragmented Fracture": {
+        "finding": false
+    },
+    "Coronoid Process Fracture": {
+        "finding": false
+    },
+    "Coronoid Process - Avulsion of the tip": {
+        "finding": false
+    },
+    "Ulna Fracture": {
+        "finding": false
+    },
+    "Radial Head Fracture": {
+        "finding": false
+    },
+    "Radial Head - Displaced": {
+        "finding": false
+    },
+    "Radial Head - Comminuted or Fragmented Fracture": {
+        "finding": false
+    },
+    "Radial Neck Fracture": {
+        "finding": false
+    },
+    "Radial Neck - Displaced": {
+        "finding": false
+    },
+    "Radial Neck - Comminuted or Fragmented Fracture": {
+        "finding": false
+    },
+    "Radius Fracture": {
+        "finding": false
+    },
+    "Joint Subluxation (All Locations)": {
+        "finding": false
+    },
+    "Joint Dislocation (All Locations)": {
+        "finding": false
+    },
+    "Joint Degeneration (All Locations)": {
+        "finding": false
+    },
+    "Soft Tissue Calcifications": {
+        "finding": false
+    },
+    "Soft Tissue Masses or Mass-like lesions": {
+        "finding": false
+    },
+    "Fat Pad Sign": {
+        "finding": false
+    },
+    "Foreign Bodies": {
+        "finding": false
+    },
+      "Ossicles": {
+        "finding": false
+    },
+    "Exostosis": {
+        "finding": false
+    }
+}

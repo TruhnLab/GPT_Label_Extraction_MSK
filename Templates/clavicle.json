@@ -1,0 +1,80 @@
+{
+    "Fracture (All Locations)": {
+        "finding": false
+    },
+    "Medial Third Fracture": {
+        "finding": false
+    },
+    "Middle Third Fracture": {
+        "finding": false
+    },
+    "Lateral Third Fracture": {
+        "finding": false
+    },
+    "Comminuted or Fragmented Fracture (All Locations)": {
+        "finding": false
+    },
+    "Displacement": {
+        "finding": false
+    },
+    "Sclerotic Lesion": {
+        "finding": false
+    },
+    "Lytic Lesion": {
+        "finding": false
+    },
+    "Joint Dislocation (All Locations)": {
+        "finding": false
+    },
+    "Joint Subluxation (All Locations)": {
+        "finding": false  
+    },
+    "Joint Degeneration (All Locations)": {
+        "finding": false
+    },
+    "Acromioclavicular Joint - Joint Space widened": {
+        "finding": false
+    },
+    "Acromioclavicular Joint - Joint Space narrowed": {
+        "finding": false
+    },
+    "Acromioclavicular Joint - Subluxation": {
+        "finding": false
+    },
+    "Acromioclavicular Joint - Dislocation": {
+        "finding": false
+    },
+    "Acromioclavicular Joint Degeneration": {
+        "finding": false
+    },
+    "Sternoclavicular Joint - Joint Space widened": {
+        "finding": false
+    },
+    "Sternoclavicular Joint - Joint Space narrowed": {
+        "finding": false
+    },
+    "Sternoclavicular Joint - Subluxation": {
+        "finding": false
+    },
+    "Sternoclavicular Joint - Dislocation": {
+        "finding": false
+    },
+    "Sternoclavicular Joint Degeneration": {
+        "finding": false
+    },
+    "Swelling or Hematoma": {
+        "finding": false
+    },
+    "Soft Tissue Calcifications": {
+        "finding": false
+    },
+    "Soft Tissues Masses or Mass-like lesions": {
+        "finding": false
+    },
+    "Foreign Bodies": {
+        "finding": false
+    },
+    "Ossicles": {
+        "finding": false
+    }
+}

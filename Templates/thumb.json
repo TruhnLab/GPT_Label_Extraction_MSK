@@ -1,0 +1,77 @@
+{
+    "Fracture (All Locations)": {
+        "finding": false
+    },
+    "Comminuted or Fragmented Fracture (All Locations)": {
+        "finding": false 
+    },
+    "First Metacarpal Bone Fracture": {
+        "finding": false
+    },
+    "First Metacarpal Bone - Comminuted or Fragmented Fracture": {
+        "finding": false
+    },
+    "Proximal Phalanx Fracture": {
+        "finding": false
+    },
+    "Proximal Phalanx - Comminuted or Fragmented Fracture": {
+        "finding": false
+    },
+    "Distal Phalanx Fracture": {
+        "finding": false
+    },
+    "Distal Phalanx - Comminuted or Fragmented Fracture": {
+        "finding": false
+    },
+    "Joint Subluxation (All Locations)": {
+        "finding": false
+    },
+    "Joint Dislocation (All Locations)": {
+        "finding": false
+    },
+    "Joint Degeneration (All Locations)": {
+        "finding": false
+    },
+    "Carpometacarpal Joint - Subluxation": {
+        "finding": false
+    },
+    "Carpometacarpal Joint - Dislocation": {
+        "finding": false
+    },
+    "Carpometacarpal Joint Degeneration": {
+        "finding": false
+    },
+    "Metacarpophalangeal Joint - Subluxation": {
+        "finding": false
+    },
+    "Metacarpophalangeal Joint - Dislocation": {
+        "finding": false
+    },
+    "Metacarpophalangeal Joint Degeneration": {
+        "finding": false
+    },
+    "Interphalangeal Joint - Subluxation": {
+        "finding": false
+    },
+    "Interphalangeal Joint - Dislocation": {
+        "finding": false
+    },
+    "Interphalangeal Joint Degeneration": {
+        "finding": false
+    },
+    "Swelling/Dactylitis": {
+        "finding": false
+    },
+    "Soft Tissue Calcifications": {
+        "finding": false
+    },
+    "Soft Tissues Masses or Mass-like lesions": {
+        "finding": false
+    },
+    "Foreign Bodies": {
+        "finding": false
+    },
+    "Ossicles": {
+        "finding": false
+    }
+}

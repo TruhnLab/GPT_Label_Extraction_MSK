@@ -1,0 +1,138 @@
+# Model files and weights
+*.pt
+*.pth
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+*.joblib
+
+# Medical images and sensitive data
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+*.tif
+*.dcm
+*.dicom
+*.nii
+*.nii.gz
+
+# Data files
+*.csv
+*.xlsx
+*.xls
+*.json
+!Templates/*.json  # Keep template files
+!Mock_reports_*.csv  # Keep mock data
+*.parquet
+*.h5
+*.hdf5
+
+# Environment and credentials
+.env
+.env.local
+.env.*.local
+*.key
+config.json
+credentials.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+.conda/
+conda-meta/
+
+# IDE and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.spyderproject
+.spyproject
+.ropeproject
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Testing and coverage
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+cover/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
+# Logs
+*.log
+logs/
+log/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Output directories
+Output/
+Results/
+Checkpoints/
+Models/
+Plots/
+Figures/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.bak
+*.backup
+
+# MLflow
+mlruns/
+mlartifacts/
+
+# Weights & Biases
+wandb/
