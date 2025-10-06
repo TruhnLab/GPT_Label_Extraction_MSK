@@ -1,14 +1,14 @@
 # Large Language Model-Based Uncertainty-Adjusted Label Extraction for AI Model Development in Upper Extremity Radiography
 
-This repository contains simplified code used in the paper "" The code is provided primarily to demonstrate the label extraction methodology and CNN model architecture used in the study.
+This repository contains simplified code used in the paper "Large Language Model-Based Uncertainty-Adjusted Label Extraction for AI Model Development in Upper Extremity Radiography" The code is provided primarily to demonstrate the label extraction methodology and CNN model architecture used in the study.
 
 ## Overview
 
 The repository includes:
-- **Automatic label extraction** using GPT-4o (`generate_labels_secure.py`)
+- **Automatic label extraction** using GPT-4o (`generate_labels.py`)
 - **Data preprocessing** scripts (`Data_prep_clavicle.py` and `Data_prep_elbow_thumb.py`) 
 - **CNN training and testing** scripts (`clav_training_testing.py` and `elbow_thumb_training_testing.py`)
-- **Mock label generation** for testing without API access (`generate_labels_mock.py`)
+- **Mock label generation** for testing without API access (`generate_labels_mock_thumb.py`)
 
 ## Prerequisites
 
